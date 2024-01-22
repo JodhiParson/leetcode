@@ -1,1 +1,2 @@
-<h2>contains-duplicate Notes</h2><hr>H
+<h2>contains-duplicate Notes</h2><hr>HashSet method:
+
