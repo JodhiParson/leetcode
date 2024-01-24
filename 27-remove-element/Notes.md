@@ -1,1 +1,1 @@
-<h2>remove-element Notes</h2><hr>Python So
+<h2>remove-element Notes</h2><hr>Python Solution:
