@@ -1,1 +1,1 @@
-<h2>remove-element Notes</h2><hr>Python Solution: have k pointer that checks itself; if the k is NOT the target val, then increment by 1 in the array. By the end of the array, all the 
+<h2>remove-element Notes</h2><hr>Python Solution: have k pointer that checks itself; if the k is NOT the target val, then increment by 1 in the array. By the end of the array, all the non 
