@@ -1,1 +1,1 @@
-<h2>remove-element Notes</h2><hr>Python Solution: have 
+<h2>remove-element Notes</h2><hr>Python Solution: have k pointer that checks itself,
