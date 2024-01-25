@@ -1,1 +1,1 @@
-<h2>plus-one Notes</h2><hr>TC: O(n
+<h2>plus-one Notes</h2><hr>TC: O(n)
