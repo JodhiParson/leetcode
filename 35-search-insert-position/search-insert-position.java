@@ -12,8 +12,8 @@ class Solution {
             } else { //if target is less than mid
                 right = mid -1; //search the left half of the current range
             }
-        }
-        return left;
+        } //when loop exits
+        return left; //return the start value as the index where target should be inserted. left will always point to the first element that is greater than or equal to the target.
             }
         }
     
